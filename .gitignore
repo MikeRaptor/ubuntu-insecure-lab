@@ -1,0 +1,4 @@
+# Artefacts lourds (ne pas versionner)
+*.ova
+*.ova.part-*
+*.iso
